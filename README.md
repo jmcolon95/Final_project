@@ -16,3 +16,7 @@ I would like to rework the Systems design document, due to just wanting to work 
 
 **How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
 -------------------------------------------------
+Considering the user's needs in the design of the system is very important, due to it is basically what the user will be interacting with and is necessary for the user to react well with the system and how they use it. Placing user interactions and safety into the system I used the activity diagrams to show how the user will create an account or access one. Then also what steps they will reach when buying a package. These were influenced with what the user needs to do to feel safe and easy steps for them to follow when trying to do something like paying for a package off DriverPass.
+
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
+-------------------------------------------------

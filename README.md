@@ -11,8 +11,7 @@ When doing the assignments, I realized, it was easier for me to analyze and unde
 
 **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
 -------------------------------------------------
-
-I would like to rework the Systems design document, due to just wanting to work on the diagrams and get more practice on them. I wanna do more sequence diagrams to understand the connection process a little better and make sure I can see the process from the differrent classes in this type of way. In improving the sequence diagram, I would like to make sure to add more information on the the payment process and move those parts around a little more to make sure it makes better sense.
+I would like to rework the Systems design document, due to just wanting to work on the diagrams and get more practice on them. I wanna do more UML use case diagrams to understand the connection process a little better and make sure I can see the process from the differrent actors in this type of way. In improving the UML use case diagrams, I need to find a balance of what to show with this design, because I feel like I tend to show too much or too little.
 
 **How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
 -------------------------------------------------
@@ -20,3 +19,4 @@ Considering the user's needs in the design of the system is very important, due 
 
 **How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
 -------------------------------------------------
+What I learned from this course was having a less detailed approach to the diagrams at times. I tend to want to put a lot of details to explain myself, but having less kinda says more in this instance. The less is able to have people consume the information that is needed to allow others to understand the approach of what I want and the owner. I can add details to the class diagrams that require more info, compared to the use case and activity diagram.
